@@ -33,7 +33,7 @@ to pay, and more often that not, 'koin, of course' is the answer you'll hear.
 While it is rare for people in 'proper jobs' to be paid in UKoin, and more
 traditional retailers still insist on pounds, it is _almost_ possible to exist
 entirely on the basis of UKoin (as long as you enjoy a diet of delivery food and
-buy almost everything online). This has also attracted a large number of DeFi investment (mostly from American
+buy almost everything online). This has also attracted a large number of DeFi investors (mostly from American
 tech startups) to London, seen as an annoying inconvenience by the City, but a
 huge financial windfall (mostly to themselves) by Westminster. Nothing showcases
 the growing popularity of UKoin quite like Blockchainz, however; a white rapper
