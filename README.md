@@ -7,7 +7,7 @@ Sundown](https://thegamingden.github.io/after-sundown) game.
 
 In the `flavour` directory, there are a bunch of pieces describing the world or
 stuff in it. They're short and focused. In the `stats` directory are various
-statistical things, such as summaries.
+statistical things, such as summaries. The `characters` directory lists the PCs.
 
 # License
 
