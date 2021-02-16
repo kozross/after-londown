@@ -1,3 +1,11 @@
+# Vitals
+
+**Name:** Karen Worthalot
+**Pronouns:** She/her
+**Banked karma:** 2
+**Remaining Edge:** 2
+**Maximum Edge:** 3
+
 # Attributes
 
 * Strength 1
@@ -32,7 +40,7 @@
 ## Technical
 
 * Artisan 4 (Painting)
-* Electronics 1 (Repair)
+* Electronics 2 (Repair)
 * Medicine 3 (First aid)
 * Operations 2 (Piloting)
 * Research 5 (Library)

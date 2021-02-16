@@ -1,3 +1,11 @@
+# Vitals
+
+**Name:** Karam Fischer
+**Pronouns:** He/him
+**Banked karma:** 1
+**Remaining Edge:** 3
+**Maximum Edge:** 3
+
 # Attributes
 
 * Strength 4
@@ -24,7 +32,7 @@
 * Animal Ken 4
 * Bureaucracy 4
 * Empathy 3
-* Expression 2
+* Expression 3
 * Intimidation
 * Persuasion 5
 * Tactics 3
@@ -54,7 +62,7 @@
 
 * Finances 3 (Puff and Stuff)
 * Science 1 (Puff and Stuff)
-* Contact 2 (DI London Metropolitan Police)
+* Contact 2 (DI London Metropolitan Police, Simon Marshall)
 * Language 1 (German)
 
 # Obligations
