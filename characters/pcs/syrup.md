@@ -2,7 +2,7 @@
 
 **Name:** Karen Worthalot
 **Pronouns:** She/her
-**Banked karma:** 2
+**Banked karma:** 1
 **Remaining Edge:** 2
 **Maximum Edge:** 3
 
@@ -34,7 +34,7 @@
 * Empathy 1
 * Expression 4
 * Intimidation 1
-* Persuasion 2
+* Persuasion 3
 * Tactics
 
 ## Technical

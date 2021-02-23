@@ -2,7 +2,7 @@
 
 **Name:** Alex Jensen
 **Pronouns:** He/him
-**Banked karma:** 2
+**Banked karma:** 5
 **Remaining Edge:** 1
 **Maximum Edge:** 3
 

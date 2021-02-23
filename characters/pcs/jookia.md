@@ -2,7 +2,7 @@
 
 **Name:** Karam Fischer
 **Pronouns:** He/him
-**Banked karma:** 1
+**Banked karma:** 2
 **Remaining Edge:** 3
 **Maximum Edge:** 3
 
@@ -23,7 +23,7 @@
 * Combat 1
 * Drive 5
 * Larceny 2 
-* Perception 2 
+* Perception 3 
 * Stealth 2
 * Survival 2
 
